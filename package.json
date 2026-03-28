@@ -1,0 +1,12 @@
+{
+  "name": "car-app",
+  "version": "1.0.0",
+  "description": "Simple Car Display App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
